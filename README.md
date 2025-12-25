@@ -35,3 +35,5 @@ Strong analytical foundations
 Practical application of machine learning
 Business oriented insight generation
 Readiness for roles in data analytics, business analytics, data science, and AI driven consulting
+
+Note: Some PDFs and notebooks may not preview correctly in GitHub. Please download files locally for full viewing.
