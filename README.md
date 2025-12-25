@@ -36,4 +36,13 @@ Practical application of machine learning
 Business oriented insight generation
 Readiness for roles in data analytics, business analytics, data science, and AI driven consulting
 
-Note: Some PDFs and notebooks may not preview correctly in GitHub. Please download files locally for full viewing.
+## Project Files & Formats
+
+Some projects include multiple file types:
+
+- **.html files** – Exported notebooks or reports (viewable in-browser or downloadable)
+- **.pdf files** – Business facing presentations and executive summaries  
+  > Note: Some PDFs may not render in GitHub preview. Please download to view.
+
+These formats reflect real-world analytics workflows, combining technical analysis with business communication.
+
